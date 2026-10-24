@@ -14,3 +14,7 @@
 
 - [教師 SOP](teacher-sops/half-day-camp-sop.md)
 - [共用地圖與場地指南](shared/maps/README.md)
+
+### 教師參考影片
+
+- [觀看教師參考影片（YouTube）](https://www.youtube.com/watch?v=eleb1kdQt9o)
