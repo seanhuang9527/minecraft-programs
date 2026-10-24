@@ -17,4 +17,4 @@
 
 ### 教師參考影片
 
-- [觀看教師參考影片（YouTube）](https://www.youtube.com/watch?v=eleb1kdQt9o)
+- [下載並執行地圖教學](https://www.youtube.com/watch?v=eleb1kdQt9o)
