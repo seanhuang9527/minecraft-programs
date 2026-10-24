@@ -1,43 +1,40 @@
-# Minecraft 麥塊程式半日營教案
+# Minecraft Education 麥塊程式
+
+這裡收錄可以獨立練習與直接帶進遊戲活動的 Microsoft MakeCode 麥塊程式。每個程式都有自己的頁面，包含準備方式、完整 Python、測試方法與延伸活動。
+
+## 教案庫
+
+- [進入麥塊程式半日營教案庫](lesson-plans/README.md)
+- [教師 SOP](teacher-sops/half-day-camp-sop.md)
+- [共用地圖與場地指南](shared/maps/README.md)
+
+## 麥塊程式
+
+### 基礎與建築
+
+| 程式 | 程式概念 | 難度 |
+|---|---|---|
+| [Agent 蓋地獄門](programs/agent-nether-portal/README.md) | 迴圈、方向 | 中階 |
+| [水電梯向上](programs/water-elevator-up/README.md) | 迴圈、方向 | 中階 |
+| [雙向水電梯](programs/two-way-water-elevator/README.md) | 迴圈、方向 | 中階 |
+| [Agent 蓋終界門](programs/agent-end-portal/README.md) | 迴圈、方向 | 中階 |
+| [Agent 蓋附魔台](programs/agent-enchanting-table/README.md) | 迴圈、方向 | 中階 |
+| [Agent 蓋單層烽火台](programs/agent-single-beacon/README.md) | 迴圈、平面填充 | 中階 |
+| [Agent 蓋三層烽火台](programs/agent-three-level-beacon/README.md) | 巢狀迴圈、庫存管理 | 高階 |
+| [Agent 蓋小木屋](programs/agent-cabin/README.md) | 函數、迴圈、方向 | 中階 |
+
+### 自動化開採技術
+
+| 程式 | 程式概念 | 難度 |
+|---|---|---|
+| [砍樹機器人](programs/tree-cutter/README.md) | 迴圈 | 初階 |
+| [砍超大樹機器人](programs/giant-tree-cutter/README.md) | 迴圈、方向 | 中階 |
 
 ## 使用方式
 
-1. 依梯次順序閱讀各資料夾內的 `lesson-plan.md`。
-2. 依學生程度選擇低、中或高階程式，不要把三份程式疊在同一個 MakeCode 專案。
-3. 將程式貼入 Minecraft Education 的 MakeCode Python 編輯器後，先測試再上課。
-4. 所有梯次統一使用[神木村 v9](shared/maps/神木村v9.mcworld)；各梯次原有地圖保留作為歷史備份。
-5. 程式截圖放在各梯次的 `images/` 資料夾。
+1. 點進單一程式頁面，先查看準備方式與 Agent 起始位置。
+2. 在 Minecraft Education 的 MakeCode 建立空白專案，再依程式逐塊完成。
+3. 上課前先切換至積木模式檢查並實機測試。
+4. 完成功能測試後，使用頁面中的活動建議實際玩一次。
 
-## 教師 SOP
-
-- [半日營 SOP](teacher-sops/half-day-camp-sop.md)
-- [匯入 MakeCode 分享連結至 Minecraft Education](teacher-sops/import-makecode-share-link.md)
-
-## 教案
-
-| 梯次 | 主題 | 時間 | 教案 |
-|---|---|---|---|
-| 梯次 A | 迴圈：求生大冒險 | 09:00－12:00 | [查看教案](batch-a-survival-adventure/lesson-plan.md) |
-| 梯次 B | 迴圈：紅石工程師 | 09:00－12:00 | [查看教案](batch-b-redstone-engineer/lesson-plan.md) |
-| 梯次 C | 巢狀迴圈：怪物攻城戰 | 09:00－12:00 | [查看教案](batch-c-monster-siege/lesson-plan.md) |
-| 梯次 D | 巢狀迴圈：礦坑達人 | 09:00－12:00 | [查看教案](batch-d-mining-master/lesson-plan.md) |
-| 梯次 E | 巢狀迴圈：沙漠荒野 | 09:00－12:00 | [查看教案](batch-e-desert-wilderness/lesson-plan.md) |
-| 梯次 F | 條件判斷：紅石樂園 | 09:00－12:00 | [查看教案](batch-f-redstone-park/lesson-plan.md) |
-| 梯次 G | 迴圈與方向：怪物專家 | 09:00－12:00 | [查看教案](batch-g-monster-expert/lesson-plan.md) |
-| 梯次 H | 巢狀迴圈：新夢幻農場 | 09:00－12:00 | [查看教案](batch-h-dream-farm/lesson-plan.md) |
-| 梯次 I | 變數：狩獵大師 | 09:00－12:00 | [查看教案](week-01-catch-chicken/lesson-plan.md) |
-| 梯次 J | 巢狀迴圈：程式造橋闖關 | 09:00－12:00 | [查看教案](batch-k-nested-loop-bridge/lesson-plan.md) |
-| 梯次 K | 變數：挖礦挑戰賽 | 09:00－12:00 | [查看教案](batch-r-mining-challenge/lesson-plan.md) |
-| 梯次 L | 條件判斷：方塊崩落大逃亡 | 09:00－12:00 | [查看教案](batch-s-collapsing-floor/lesson-plan.md) |
-| 梯次 M | 隨機數：閃動格子 | 09:00－12:00 | [查看教案](batch-m-random-flashing-floor/lesson-plan.md) |
-
-## 共用資源
-
-- [神木村場地與座標指南](shared/maps/神木村.md)
-- [神木村地圖版本紀錄](shared/maps/CHANGELOG.md)
-- [下載神木村 v9](shared/maps/神木村v9.mcworld)
-- [下載小翔老師麥塊課堂簡報（beta)](shared/presentations/小翔老師_麥塊課堂簡報.pptx)
-
-## 教案問題回報
-
-[回報教案問題](https://github.com/seanhuang9527/minecraft-half-day-camp/issues/new?template=lesson-problem.yml)
+> 第一批程式依既有教學資料整理，尚未在本次發布流程中重新實機驗證。
