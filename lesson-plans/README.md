@@ -42,4 +42,4 @@
 
 ## 教案問題回報
 
-[回報教案問題](https://github.com/seanhuang9527/minecraft-half-day-camp/issues/new?template=lesson-problem.yml)
+[回報教案問題](https://github.com/seanhuang9527/minecraft-programs/issues/new?template=lesson-problem.yml)
