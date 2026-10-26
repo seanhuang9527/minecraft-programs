@@ -19,4 +19,6 @@
 
 - [賣塊下載並匯入地圖教學](https://www.youtube.com/watch?v=eleb1kdQt9o)
 - [麥塊地圖匯出地圖教學](https://www.youtube.com/watch?v=HGywd0cyF2w)
+- [MINECRAFT 教育版(MINECRAFT EDUCATION) 安裝與下載教學](https://www.youtube.com/watch?v=MgJ7ZISpHf8)
+ 
 
