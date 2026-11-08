@@ -15,7 +15,7 @@
 - [教師 SOP](teacher-sops/half-day-camp-sop.md)
 - [共用地圖與場地指南](shared/maps/README.md)
 
-### 教師參考影片
+### 教師參考影片以及常見問題
 
 - [麥塊下載並匯入地圖教學](https://www.youtube.com/watch?v=eleb1kdQt9o)
 - [麥塊地圖匯出地圖教學](https://www.youtube.com/watch?v=HGywd0cyF2w)
