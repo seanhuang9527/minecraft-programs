@@ -21,6 +21,7 @@
 - [麥塊地圖匯出地圖教學](https://www.youtube.com/watch?v=HGywd0cyF2w)
 - [MINECRAFT 教育版 安裝與下載教學](https://www.youtube.com/watch?v=MgJ7ZISpHf8)
 - [Minecraft Education 麥塊教育版、IPad 操作教學](https://www.youtube.com/watch?v=PHd5KgR5M18)
+- [邁課積塊 | Minecraft 教育版 快速學會多人連線完整教學](https://www.youtube.com/watch?v=YIXzOWxWelI)
 
  
 
