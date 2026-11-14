@@ -2,7 +2,7 @@
 
 [返回麥塊程式首頁](../README.md)
 
-集中收錄所有單獨的 Minecraft MakeCode 程式，每個程式各有自己的頁面，包含準備方式、完整 Python、測試方法與延伸活動。目前收錄 25 個程式主題。
+集中收錄所有單獨的 Minecraft MakeCode 程式，每個程式各有自己的頁面，包含準備方式、完整 Python、測試方法與延伸活動。目前收錄 26 個程式主題。
 
 ## 基礎與建築
 
@@ -43,6 +43,7 @@
 | [變數 抓雞大賽](chicken-contest/README.md) | 變數、迴圈、條件判斷 | 高階 |
 | [變數 抓雞大賽進階版](chicken-contest-advanced/README.md) | 變數、迴圈、條件判斷、函數 | 高階 |
 | [隨機數：閃動格子](flashing-floor/README.md) | 事件、變數、條件判斷 | 中階 |
+| [天降 TNT 躲避遊戲](tnt-rain-dodge/README.md) | 事件、變數、迴圈、巢狀迴圈、關卡設計 | 高階 |
 
 ## 使用方式
 
